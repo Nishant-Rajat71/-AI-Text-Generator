@@ -19,4 +19,5 @@ An AI-powered text generator that creates sentiment-aligned paragraphs based on 
 4. Click "Generate Text"
 5. Download results if needed
 
-## Local Installation
+Here's the link to access the app:
+https://ubjomjfulxazchq5t5nxzq.streamlit.app/
